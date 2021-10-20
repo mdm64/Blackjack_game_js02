@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://static6.depositphotos.com/1003098/568/i/600/depositphotos_5687838-stock-photo-casino-chip-background.jpg);
+    text-align: center;
+    background-size: cover;
+    color: azure;
+    font-size: 30px;
+    font-weight: bold
+}
+
+h1{
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(211, 184, 29);
+}
+#message-el{
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: azure;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    width: 200px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+#start-el{
+   background: rgb(158, 158, 61);
+}
+#newcard-el{
+    background: rgb(158, 158, 61);
+ }
